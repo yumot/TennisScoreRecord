@@ -1,4 +1,4 @@
-package com.yumo.tennis.score.tennis.score.tennis.score.record
+package com.yumo.tennis.score.record
 
 import org.junit.Test
 

@@ -1,7 +1,7 @@
-package com.yumo.tennis.score.tennis.score.tennis.score.record
+package com.yumo.tennis.score.record
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

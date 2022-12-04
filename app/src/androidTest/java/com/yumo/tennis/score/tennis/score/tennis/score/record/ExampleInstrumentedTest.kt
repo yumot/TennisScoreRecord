@@ -1,4 +1,4 @@
-package com.yumo.tennis.score.tennis.score.tennis.score.record
+package com.yumo.tennis.score.record
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -20,7 +20,7 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals(
-            "com.yumo.tennis.score.tennis.score.tennis.score.record",
+            "com.yumo.tennis.score.record",
             appContext.packageName
         )
     }

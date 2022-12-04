@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.yumo.tennis.score.tennis.score.tennis.score.record">
+    package="com.yumo.tennis.score.record">
 
     <application
         android:allowBackup="true"
@@ -14,7 +14,7 @@
         android:theme="@style/Theme.TennisScoreRecord"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="com.yumo.tennis.score.record.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
