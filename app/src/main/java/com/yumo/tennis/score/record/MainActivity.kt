@@ -10,5 +10,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setTheme(R.style.Theme_TennisScoreRecord)
         setContentView(R.layout.activity_main)
+
+
+
+
+
     }
 }
